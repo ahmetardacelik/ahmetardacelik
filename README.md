@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetardacelik
 - 👀 I’m interested in front and backend development and Machine Learning, 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning data structures and algorithms with C++
 - 💞️ I’m looking to collaborate on any Python, Java or C++; machine learning or web development projects
 - 📫 How to reach me: celikahmetarda30@gmail.com
 - 🎼 I am also interested in music; I play the piano, guitar and violin and I sing. so any music-related project would be a blast for me :)
